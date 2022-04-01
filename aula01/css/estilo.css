@@ -1,0 +1,32 @@
+body {
+    font-size: 16px;
+    text-align: center;
+}
+
+h1 {
+    color: #F27549;
+}
+
+h2{
+    color: #373445;
+}
+
+div {
+    background: #fff;
+    width: 100px;
+    margin: 10px;
+    font-size: x-small;
+    float: left;
+    box-shadow: 6px 6px 15px #BDBDBD;
+    border-radius: 20px;
+}
+
+div:hover {
+    background: #EEEEEE;
+}
+
+img {
+    width: 70%;
+    margin: 0px;
+    border-radius: 50%;
+}
